@@ -1,0 +1,800 @@
+Simulation round: 1
+Baerule's total identification: [0: 434],[1: 664], [2: 902]
+BasicRebel's total identification: [0: 440],[1: 617], [2: 943]
+ 
+Simulation round: 2
+Baerule's total identification: [0: 439],[1: 615], [2: 946]
+BasicRebel's total identification: [0: 431],[1: 593], [2: 976]
+ 
+Simulation round: 3
+Baerule's total identification: [0: 468],[1: 623], [2: 909]
+BasicRebel's total identification: [0: 487],[1: 586], [2: 927]
+ 
+Simulation round: 4
+Baerule's total identification: [0: 424],[1: 641], [2: 935]
+BasicRebel's total identification: [0: 441],[1: 623], [2: 936]
+ 
+Simulation round: 5
+Baerule's total identification: [0: 425],[1: 648], [2: 927]
+BasicRebel's total identification: [0: 445],[1: 605], [2: 950]
+ 
+Simulation round: 6
+Baerule's total identification: [0: 442],[1: 620], [2: 938]
+BasicRebel's total identification: [0: 463],[1: 609], [2: 928]
+ 
+Simulation round: 7
+Baerule's total identification: [0: 478],[1: 615], [2: 907]
+BasicRebel's total identification: [0: 492],[1: 590], [2: 918]
+ 
+Simulation round: 8
+Baerule's total identification: [0: 459],[1: 658], [2: 883]
+BasicRebel's total identification: [0: 465],[1: 637], [2: 898]
+ 
+Simulation round: 9
+Baerule's total identification: [0: 451],[1: 590], [2: 959]
+BasicRebel's total identification: [0: 466],[1: 602], [2: 932]
+ 
+Simulation round: 10
+Baerule's total identification: [0: 451],[1: 597], [2: 952]
+BasicRebel's total identification: [0: 443],[1: 627], [2: 930]
+ 
+Simulation round: 11
+Baerule's total identification: [0: 462],[1: 588], [2: 950]
+BasicRebel's total identification: [0: 426],[1: 613], [2: 961]
+ 
+Simulation round: 12
+Baerule's total identification: [0: 469],[1: 611], [2: 920]
+BasicRebel's total identification: [0: 472],[1: 566], [2: 962]
+ 
+Simulation round: 13
+Baerule's total identification: [0: 471],[1: 587], [2: 942]
+BasicRebel's total identification: [0: 448],[1: 587], [2: 965]
+ 
+Simulation round: 14
+Baerule's total identification: [0: 458],[1: 597], [2: 945]
+BasicRebel's total identification: [0: 499],[1: 568], [2: 933]
+ 
+Simulation round: 15
+Baerule's total identification: [0: 447],[1: 627], [2: 926]
+BasicRebel's total identification: [0: 456],[1: 613], [2: 931]
+ 
+Simulation round: 16
+Baerule's total identification: [0: 459],[1: 588], [2: 953]
+BasicRebel's total identification: [0: 443],[1: 629], [2: 928]
+ 
+Simulation round: 17
+Baerule's total identification: [0: 471],[1: 596], [2: 933]
+BasicRebel's total identification: [0: 433],[1: 601], [2: 966]
+ 
+Simulation round: 18
+Baerule's total identification: [0: 494],[1: 624], [2: 882]
+BasicRebel's total identification: [0: 534],[1: 584], [2: 882]
+ 
+Simulation round: 19
+Baerule's total identification: [0: 443],[1: 563], [2: 994]
+BasicRebel's total identification: [0: 439],[1: 604], [2: 957]
+ 
+Simulation round: 20
+Baerule's total identification: [0: 489],[1: 584], [2: 927]
+BasicRebel's total identification: [0: 440],[1: 615], [2: 945]
+ 
+Simulation round: 21
+Baerule's total identification: [0: 436],[1: 628], [2: 936]
+BasicRebel's total identification: [0: 408],[1: 649], [2: 943]
+ 
+Simulation round: 22
+Baerule's total identification: [0: 477],[1: 628], [2: 895]
+BasicRebel's total identification: [0: 485],[1: 607], [2: 908]
+ 
+Simulation round: 23
+Baerule's total identification: [0: 446],[1: 641], [2: 913]
+BasicRebel's total identification: [0: 468],[1: 602], [2: 930]
+ 
+Simulation round: 24
+Baerule's total identification: [0: 429],[1: 601], [2: 970]
+BasicRebel's total identification: [0: 445],[1: 595], [2: 960]
+ 
+Simulation round: 25
+Baerule's total identification: [0: 443],[1: 603], [2: 954]
+BasicRebel's total identification: [0: 435],[1: 603], [2: 962]
+ 
+Simulation round: 26
+Baerule's total identification: [0: 452],[1: 638], [2: 910]
+BasicRebel's total identification: [0: 446],[1: 578], [2: 976]
+ 
+Simulation round: 27
+Baerule's total identification: [0: 468],[1: 617], [2: 915]
+BasicRebel's total identification: [0: 483],[1: 571], [2: 946]
+ 
+Simulation round: 28
+Baerule's total identification: [0: 442],[1: 607], [2: 951]
+BasicRebel's total identification: [0: 476],[1: 613], [2: 911]
+ 
+Simulation round: 29
+Baerule's total identification: [0: 462],[1: 622], [2: 916]
+BasicRebel's total identification: [0: 439],[1: 646], [2: 915]
+ 
+Simulation round: 30
+Baerule's total identification: [0: 463],[1: 626], [2: 911]
+BasicRebel's total identification: [0: 432],[1: 657], [2: 911]
+ 
+Simulation round: 31
+Baerule's total identification: [0: 459],[1: 617], [2: 924]
+BasicRebel's total identification: [0: 471],[1: 625], [2: 904]
+ 
+Simulation round: 32
+Baerule's total identification: [0: 430],[1: 606], [2: 964]
+BasicRebel's total identification: [0: 497],[1: 581], [2: 922]
+ 
+Simulation round: 33
+Baerule's total identification: [0: 460],[1: 624], [2: 916]
+BasicRebel's total identification: [0: 460],[1: 576], [2: 964]
+ 
+Simulation round: 34
+Baerule's total identification: [0: 456],[1: 631], [2: 913]
+BasicRebel's total identification: [0: 433],[1: 602], [2: 965]
+ 
+Simulation round: 35
+Baerule's total identification: [0: 444],[1: 597], [2: 959]
+BasicRebel's total identification: [0: 499],[1: 595], [2: 906]
+ 
+Simulation round: 36
+Baerule's total identification: [0: 461],[1: 614], [2: 925]
+BasicRebel's total identification: [0: 470],[1: 590], [2: 940]
+ 
+Simulation round: 37
+Baerule's total identification: [0: 440],[1: 586], [2: 974]
+BasicRebel's total identification: [0: 455],[1: 589], [2: 956]
+ 
+Simulation round: 38
+Baerule's total identification: [0: 477],[1: 650], [2: 873]
+BasicRebel's total identification: [0: 459],[1: 591], [2: 950]
+ 
+Simulation round: 39
+Baerule's total identification: [0: 429],[1: 616], [2: 955]
+BasicRebel's total identification: [0: 458],[1: 601], [2: 941]
+ 
+Simulation round: 40
+Baerule's total identification: [0: 448],[1: 583], [2: 969]
+BasicRebel's total identification: [0: 458],[1: 608], [2: 934]
+ 
+Simulation round: 41
+Baerule's total identification: [0: 478],[1: 563], [2: 959]
+BasicRebel's total identification: [0: 448],[1: 591], [2: 961]
+ 
+Simulation round: 42
+Baerule's total identification: [0: 474],[1: 564], [2: 962]
+BasicRebel's total identification: [0: 459],[1: 582], [2: 959]
+ 
+Simulation round: 43
+Baerule's total identification: [0: 468],[1: 610], [2: 922]
+BasicRebel's total identification: [0: 477],[1: 597], [2: 926]
+ 
+Simulation round: 44
+Baerule's total identification: [0: 462],[1: 636], [2: 902]
+BasicRebel's total identification: [0: 449],[1: 618], [2: 933]
+ 
+Simulation round: 45
+Baerule's total identification: [0: 464],[1: 590], [2: 946]
+BasicRebel's total identification: [0: 435],[1: 594], [2: 971]
+ 
+Simulation round: 46
+Baerule's total identification: [0: 462],[1: 618], [2: 920]
+BasicRebel's total identification: [0: 464],[1: 645], [2: 891]
+ 
+Simulation round: 47
+Baerule's total identification: [0: 476],[1: 591], [2: 933]
+BasicRebel's total identification: [0: 420],[1: 628], [2: 952]
+ 
+Simulation round: 48
+Baerule's total identification: [0: 448],[1: 635], [2: 917]
+BasicRebel's total identification: [0: 443],[1: 622], [2: 935]
+ 
+Simulation round: 49
+Baerule's total identification: [0: 479],[1: 625], [2: 896]
+BasicRebel's total identification: [0: 506],[1: 595], [2: 899]
+ 
+Simulation round: 50
+Baerule's total identification: [0: 450],[1: 597], [2: 953]
+BasicRebel's total identification: [0: 425],[1: 640], [2: 935]
+ 
+Simulation round: 51
+Baerule's total identification: [0: 413],[1: 624], [2: 963]
+BasicRebel's total identification: [0: 441],[1: 607], [2: 952]
+ 
+Simulation round: 52
+Baerule's total identification: [0: 418],[1: 646], [2: 936]
+BasicRebel's total identification: [0: 440],[1: 628], [2: 932]
+ 
+Simulation round: 53
+Baerule's total identification: [0: 454],[1: 630], [2: 916]
+BasicRebel's total identification: [0: 445],[1: 613], [2: 942]
+ 
+Simulation round: 54
+Baerule's total identification: [0: 409],[1: 618], [2: 973]
+BasicRebel's total identification: [0: 450],[1: 599], [2: 951]
+ 
+Simulation round: 55
+Baerule's total identification: [0: 445],[1: 592], [2: 963]
+BasicRebel's total identification: [0: 451],[1: 591], [2: 958]
+ 
+Simulation round: 56
+Baerule's total identification: [0: 471],[1: 592], [2: 937]
+BasicRebel's total identification: [0: 468],[1: 584], [2: 948]
+ 
+Simulation round: 57
+Baerule's total identification: [0: 492],[1: 652], [2: 856]
+BasicRebel's total identification: [0: 464],[1: 633], [2: 903]
+ 
+Simulation round: 58
+Baerule's total identification: [0: 427],[1: 623], [2: 950]
+BasicRebel's total identification: [0: 474],[1: 602], [2: 924]
+ 
+Simulation round: 59
+Baerule's total identification: [0: 445],[1: 617], [2: 938]
+BasicRebel's total identification: [0: 465],[1: 574], [2: 961]
+ 
+Simulation round: 60
+Baerule's total identification: [0: 425],[1: 632], [2: 943]
+BasicRebel's total identification: [0: 467],[1: 596], [2: 937]
+ 
+Simulation round: 61
+Baerule's total identification: [0: 418],[1: 640], [2: 942]
+BasicRebel's total identification: [0: 443],[1: 612], [2: 945]
+ 
+Simulation round: 62
+Baerule's total identification: [0: 431],[1: 635], [2: 934]
+BasicRebel's total identification: [0: 441],[1: 593], [2: 966]
+ 
+Simulation round: 63
+Baerule's total identification: [0: 443],[1: 627], [2: 930]
+BasicRebel's total identification: [0: 406],[1: 639], [2: 955]
+ 
+Simulation round: 64
+Baerule's total identification: [0: 435],[1: 620], [2: 945]
+BasicRebel's total identification: [0: 397],[1: 652], [2: 951]
+ 
+Simulation round: 65
+Baerule's total identification: [0: 438],[1: 599], [2: 963]
+BasicRebel's total identification: [0: 428],[1: 620], [2: 952]
+ 
+Simulation round: 66
+Baerule's total identification: [0: 452],[1: 584], [2: 964]
+BasicRebel's total identification: [0: 441],[1: 611], [2: 948]
+ 
+Simulation round: 67
+Baerule's total identification: [0: 431],[1: 615], [2: 954]
+BasicRebel's total identification: [0: 454],[1: 620], [2: 926]
+ 
+Simulation round: 68
+Baerule's total identification: [0: 469],[1: 606], [2: 925]
+BasicRebel's total identification: [0: 492],[1: 585], [2: 923]
+ 
+Simulation round: 69
+Baerule's total identification: [0: 460],[1: 603], [2: 937]
+BasicRebel's total identification: [0: 471],[1: 613], [2: 916]
+ 
+Simulation round: 70
+Baerule's total identification: [0: 437],[1: 618], [2: 945]
+BasicRebel's total identification: [0: 485],[1: 584], [2: 931]
+ 
+Simulation round: 71
+Baerule's total identification: [0: 450],[1: 608], [2: 942]
+BasicRebel's total identification: [0: 471],[1: 598], [2: 931]
+ 
+Simulation round: 72
+Baerule's total identification: [0: 442],[1: 597], [2: 961]
+BasicRebel's total identification: [0: 454],[1: 648], [2: 898]
+ 
+Simulation round: 73
+Baerule's total identification: [0: 501],[1: 616], [2: 883]
+BasicRebel's total identification: [0: 447],[1: 622], [2: 931]
+ 
+Simulation round: 74
+Baerule's total identification: [0: 440],[1: 580], [2: 980]
+BasicRebel's total identification: [0: 438],[1: 606], [2: 956]
+ 
+Simulation round: 75
+Baerule's total identification: [0: 445],[1: 625], [2: 930]
+BasicRebel's total identification: [0: 486],[1: 582], [2: 932]
+ 
+Simulation round: 76
+Baerule's total identification: [0: 449],[1: 632], [2: 919]
+BasicRebel's total identification: [0: 456],[1: 599], [2: 945]
+ 
+Simulation round: 77
+Baerule's total identification: [0: 457],[1: 645], [2: 898]
+BasicRebel's total identification: [0: 476],[1: 630], [2: 894]
+ 
+Simulation round: 78
+Baerule's total identification: [0: 446],[1: 634], [2: 920]
+BasicRebel's total identification: [0: 454],[1: 644], [2: 902]
+ 
+Simulation round: 79
+Baerule's total identification: [0: 467],[1: 603], [2: 930]
+BasicRebel's total identification: [0: 459],[1: 613], [2: 928]
+ 
+Simulation round: 80
+Baerule's total identification: [0: 467],[1: 621], [2: 912]
+BasicRebel's total identification: [0: 474],[1: 610], [2: 916]
+ 
+Simulation round: 81
+Baerule's total identification: [0: 460],[1: 616], [2: 924]
+BasicRebel's total identification: [0: 472],[1: 607], [2: 921]
+ 
+Simulation round: 82
+Baerule's total identification: [0: 431],[1: 666], [2: 903]
+BasicRebel's total identification: [0: 454],[1: 636], [2: 910]
+ 
+Simulation round: 83
+Baerule's total identification: [0: 464],[1: 570], [2: 966]
+BasicRebel's total identification: [0: 455],[1: 610], [2: 935]
+ 
+Simulation round: 84
+Baerule's total identification: [0: 429],[1: 577], [2: 994]
+BasicRebel's total identification: [0: 474],[1: 600], [2: 926]
+ 
+Simulation round: 85
+Baerule's total identification: [0: 425],[1: 643], [2: 932]
+BasicRebel's total identification: [0: 445],[1: 628], [2: 927]
+ 
+Simulation round: 86
+Baerule's total identification: [0: 432],[1: 613], [2: 955]
+BasicRebel's total identification: [0: 473],[1: 613], [2: 914]
+ 
+Simulation round: 87
+Baerule's total identification: [0: 444],[1: 619], [2: 937]
+BasicRebel's total identification: [0: 464],[1: 595], [2: 941]
+ 
+Simulation round: 88
+Baerule's total identification: [0: 435],[1: 619], [2: 946]
+BasicRebel's total identification: [0: 478],[1: 604], [2: 918]
+ 
+Simulation round: 89
+Baerule's total identification: [0: 480],[1: 589], [2: 931]
+BasicRebel's total identification: [0: 442],[1: 624], [2: 934]
+ 
+Simulation round: 90
+Baerule's total identification: [0: 469],[1: 616], [2: 915]
+BasicRebel's total identification: [0: 484],[1: 570], [2: 946]
+ 
+Simulation round: 91
+Baerule's total identification: [0: 440],[1: 624], [2: 936]
+BasicRebel's total identification: [0: 439],[1: 639], [2: 922]
+ 
+Simulation round: 92
+Baerule's total identification: [0: 436],[1: 571], [2: 993]
+BasicRebel's total identification: [0: 449],[1: 631], [2: 920]
+ 
+Simulation round: 93
+Baerule's total identification: [0: 432],[1: 625], [2: 943]
+BasicRebel's total identification: [0: 467],[1: 585], [2: 948]
+ 
+Simulation round: 94
+Baerule's total identification: [0: 425],[1: 581], [2: 994]
+BasicRebel's total identification: [0: 471],[1: 614], [2: 915]
+ 
+Simulation round: 95
+Baerule's total identification: [0: 437],[1: 615], [2: 948]
+BasicRebel's total identification: [0: 446],[1: 615], [2: 939]
+ 
+Simulation round: 96
+Baerule's total identification: [0: 455],[1: 614], [2: 931]
+BasicRebel's total identification: [0: 465],[1: 613], [2: 922]
+ 
+Simulation round: 97
+Baerule's total identification: [0: 428],[1: 621], [2: 951]
+BasicRebel's total identification: [0: 438],[1: 615], [2: 947]
+ 
+Simulation round: 98
+Baerule's total identification: [0: 447],[1: 633], [2: 920]
+BasicRebel's total identification: [0: 438],[1: 654], [2: 908]
+ 
+Simulation round: 99
+Baerule's total identification: [0: 421],[1: 629], [2: 950]
+BasicRebel's total identification: [0: 435],[1: 643], [2: 922]
+ 
+Simulation round: 100
+Baerule's total identification: [0: 441],[1: 625], [2: 934]
+BasicRebel's total identification: [0: 472],[1: 624], [2: 904]
+ 
+Simulation round: 101
+Baerule's total identification: [0: 439],[1: 624], [2: 937]
+BasicRebel's total identification: [0: 468],[1: 574], [2: 958]
+ 
+Simulation round: 102
+Baerule's total identification: [0: 425],[1: 615], [2: 960]
+BasicRebel's total identification: [0: 439],[1: 622], [2: 939]
+ 
+Simulation round: 103
+Baerule's total identification: [0: 455],[1: 657], [2: 888]
+BasicRebel's total identification: [0: 444],[1: 670], [2: 886]
+ 
+Simulation round: 104
+Baerule's total identification: [0: 428],[1: 606], [2: 966]
+BasicRebel's total identification: [0: 470],[1: 622], [2: 908]
+ 
+Simulation round: 105
+Baerule's total identification: [0: 451],[1: 630], [2: 919]
+BasicRebel's total identification: [0: 487],[1: 641], [2: 872]
+ 
+Simulation round: 106
+Baerule's total identification: [0: 464],[1: 603], [2: 933]
+BasicRebel's total identification: [0: 495],[1: 567], [2: 938]
+ 
+Simulation round: 107
+Baerule's total identification: [0: 479],[1: 584], [2: 937]
+BasicRebel's total identification: [0: 475],[1: 583], [2: 942]
+ 
+Simulation round: 108
+Baerule's total identification: [0: 451],[1: 597], [2: 952]
+BasicRebel's total identification: [0: 468],[1: 626], [2: 906]
+ 
+Simulation round: 109
+Baerule's total identification: [0: 431],[1: 597], [2: 972]
+BasicRebel's total identification: [0: 439],[1: 612], [2: 949]
+ 
+Simulation round: 110
+Baerule's total identification: [0: 445],[1: 607], [2: 948]
+BasicRebel's total identification: [0: 431],[1: 624], [2: 945]
+ 
+Simulation round: 111
+Baerule's total identification: [0: 472],[1: 587], [2: 941]
+BasicRebel's total identification: [0: 461],[1: 616], [2: 923]
+ 
+Simulation round: 112
+Baerule's total identification: [0: 453],[1: 640], [2: 907]
+BasicRebel's total identification: [0: 448],[1: 617], [2: 935]
+ 
+Simulation round: 113
+Baerule's total identification: [0: 425],[1: 621], [2: 954]
+BasicRebel's total identification: [0: 453],[1: 616], [2: 931]
+ 
+Simulation round: 114
+Baerule's total identification: [0: 462],[1: 648], [2: 890]
+BasicRebel's total identification: [0: 469],[1: 589], [2: 942]
+ 
+Simulation round: 115
+Baerule's total identification: [0: 440],[1: 615], [2: 945]
+BasicRebel's total identification: [0: 452],[1: 630], [2: 918]
+ 
+Simulation round: 116
+Baerule's total identification: [0: 461],[1: 620], [2: 919]
+BasicRebel's total identification: [0: 454],[1: 607], [2: 939]
+ 
+Simulation round: 117
+Baerule's total identification: [0: 459],[1: 631], [2: 910]
+BasicRebel's total identification: [0: 476],[1: 609], [2: 915]
+ 
+Simulation round: 118
+Baerule's total identification: [0: 432],[1: 639], [2: 929]
+BasicRebel's total identification: [0: 445],[1: 634], [2: 921]
+ 
+Simulation round: 119
+Baerule's total identification: [0: 429],[1: 645], [2: 926]
+BasicRebel's total identification: [0: 457],[1: 608], [2: 935]
+ 
+Simulation round: 120
+Baerule's total identification: [0: 450],[1: 627], [2: 923]
+BasicRebel's total identification: [0: 465],[1: 609], [2: 926]
+ 
+Simulation round: 121
+Baerule's total identification: [0: 454],[1: 583], [2: 963]
+BasicRebel's total identification: [0: 452],[1: 585], [2: 963]
+ 
+Simulation round: 122
+Baerule's total identification: [0: 418],[1: 661], [2: 921]
+BasicRebel's total identification: [0: 486],[1: 609], [2: 905]
+ 
+Simulation round: 123
+Baerule's total identification: [0: 453],[1: 599], [2: 948]
+BasicRebel's total identification: [0: 459],[1: 635], [2: 906]
+ 
+Simulation round: 124
+Baerule's total identification: [0: 453],[1: 579], [2: 968]
+BasicRebel's total identification: [0: 500],[1: 575], [2: 925]
+ 
+Simulation round: 125
+Baerule's total identification: [0: 438],[1: 613], [2: 949]
+BasicRebel's total identification: [0: 432],[1: 603], [2: 965]
+ 
+Simulation round: 126
+Baerule's total identification: [0: 429],[1: 603], [2: 968]
+BasicRebel's total identification: [0: 456],[1: 626], [2: 918]
+ 
+Simulation round: 127
+Baerule's total identification: [0: 446],[1: 616], [2: 938]
+BasicRebel's total identification: [0: 475],[1: 630], [2: 895]
+ 
+Simulation round: 128
+Baerule's total identification: [0: 415],[1: 654], [2: 931]
+BasicRebel's total identification: [0: 469],[1: 591], [2: 940]
+ 
+Simulation round: 129
+Baerule's total identification: [0: 449],[1: 582], [2: 969]
+BasicRebel's total identification: [0: 481],[1: 572], [2: 947]
+ 
+Simulation round: 130
+Baerule's total identification: [0: 417],[1: 627], [2: 956]
+BasicRebel's total identification: [0: 467],[1: 596], [2: 937]
+ 
+Simulation round: 131
+Baerule's total identification: [0: 437],[1: 617], [2: 946]
+BasicRebel's total identification: [0: 460],[1: 626], [2: 914]
+ 
+Simulation round: 132
+Baerule's total identification: [0: 477],[1: 624], [2: 899]
+BasicRebel's total identification: [0: 446],[1: 640], [2: 914]
+ 
+Simulation round: 133
+Baerule's total identification: [0: 470],[1: 593], [2: 937]
+BasicRebel's total identification: [0: 460],[1: 605], [2: 935]
+ 
+Simulation round: 134
+Baerule's total identification: [0: 436],[1: 640], [2: 924]
+BasicRebel's total identification: [0: 474],[1: 594], [2: 932]
+ 
+Simulation round: 135
+Baerule's total identification: [0: 455],[1: 602], [2: 943]
+BasicRebel's total identification: [0: 451],[1: 619], [2: 930]
+ 
+Simulation round: 136
+Baerule's total identification: [0: 445],[1: 586], [2: 969]
+BasicRebel's total identification: [0: 445],[1: 599], [2: 956]
+ 
+Simulation round: 137
+Baerule's total identification: [0: 452],[1: 567], [2: 981]
+BasicRebel's total identification: [0: 455],[1: 598], [2: 947]
+ 
+Simulation round: 138
+Baerule's total identification: [0: 442],[1: 601], [2: 957]
+BasicRebel's total identification: [0: 438],[1: 601], [2: 961]
+ 
+Simulation round: 139
+Baerule's total identification: [0: 429],[1: 639], [2: 932]
+BasicRebel's total identification: [0: 432],[1: 598], [2: 970]
+ 
+Simulation round: 140
+Baerule's total identification: [0: 493],[1: 575], [2: 932]
+BasicRebel's total identification: [0: 468],[1: 561], [2: 971]
+ 
+Simulation round: 141
+Baerule's total identification: [0: 409],[1: 638], [2: 953]
+BasicRebel's total identification: [0: 399],[1: 634], [2: 967]
+ 
+Simulation round: 142
+Baerule's total identification: [0: 456],[1: 631], [2: 913]
+BasicRebel's total identification: [0: 451],[1: 616], [2: 933]
+ 
+Simulation round: 143
+Baerule's total identification: [0: 445],[1: 658], [2: 897]
+BasicRebel's total identification: [0: 463],[1: 624], [2: 913]
+ 
+Simulation round: 144
+Baerule's total identification: [0: 435],[1: 608], [2: 957]
+BasicRebel's total identification: [0: 481],[1: 587], [2: 932]
+ 
+Simulation round: 145
+Baerule's total identification: [0: 455],[1: 584], [2: 961]
+BasicRebel's total identification: [0: 448],[1: 606], [2: 946]
+ 
+Simulation round: 146
+Baerule's total identification: [0: 443],[1: 658], [2: 899]
+BasicRebel's total identification: [0: 501],[1: 579], [2: 920]
+ 
+Simulation round: 147
+Baerule's total identification: [0: 463],[1: 589], [2: 948]
+BasicRebel's total identification: [0: 449],[1: 588], [2: 963]
+ 
+Simulation round: 148
+Baerule's total identification: [0: 446],[1: 630], [2: 924]
+BasicRebel's total identification: [0: 456],[1: 621], [2: 923]
+ 
+Simulation round: 149
+Baerule's total identification: [0: 465],[1: 619], [2: 916]
+BasicRebel's total identification: [0: 434],[1: 633], [2: 933]
+ 
+Simulation round: 150
+Baerule's total identification: [0: 458],[1: 618], [2: 924]
+BasicRebel's total identification: [0: 501],[1: 596], [2: 903]
+ 
+Simulation round: 151
+Baerule's total identification: [0: 461],[1: 598], [2: 941]
+BasicRebel's total identification: [0: 476],[1: 575], [2: 949]
+ 
+Simulation round: 152
+Baerule's total identification: [0: 436],[1: 632], [2: 932]
+BasicRebel's total identification: [0: 483],[1: 594], [2: 923]
+ 
+Simulation round: 153
+Baerule's total identification: [0: 468],[1: 597], [2: 935]
+BasicRebel's total identification: [0: 470],[1: 588], [2: 942]
+ 
+Simulation round: 154
+Baerule's total identification: [0: 432],[1: 605], [2: 963]
+BasicRebel's total identification: [0: 470],[1: 617], [2: 913]
+ 
+Simulation round: 155
+Baerule's total identification: [0: 452],[1: 626], [2: 922]
+BasicRebel's total identification: [0: 473],[1: 579], [2: 948]
+ 
+Simulation round: 156
+Baerule's total identification: [0: 426],[1: 622], [2: 952]
+BasicRebel's total identification: [0: 447],[1: 595], [2: 958]
+ 
+Simulation round: 157
+Baerule's total identification: [0: 450],[1: 608], [2: 942]
+BasicRebel's total identification: [0: 444],[1: 617], [2: 939]
+ 
+Simulation round: 158
+Baerule's total identification: [0: 446],[1: 625], [2: 929]
+BasicRebel's total identification: [0: 459],[1: 588], [2: 953]
+ 
+Simulation round: 159
+Baerule's total identification: [0: 454],[1: 626], [2: 920]
+BasicRebel's total identification: [0: 427],[1: 594], [2: 979]
+ 
+Simulation round: 160
+Baerule's total identification: [0: 461],[1: 580], [2: 959]
+BasicRebel's total identification: [0: 459],[1: 589], [2: 952]
+ 
+Simulation round: 161
+Baerule's total identification: [0: 451],[1: 630], [2: 919]
+BasicRebel's total identification: [0: 434],[1: 617], [2: 949]
+ 
+Simulation round: 162
+Baerule's total identification: [0: 459],[1: 622], [2: 919]
+BasicRebel's total identification: [0: 474],[1: 586], [2: 940]
+ 
+Simulation round: 163
+Baerule's total identification: [0: 460],[1: 624], [2: 916]
+BasicRebel's total identification: [0: 457],[1: 590], [2: 953]
+ 
+Simulation round: 164
+Baerule's total identification: [0: 462],[1: 606], [2: 932]
+BasicRebel's total identification: [0: 475],[1: 581], [2: 944]
+ 
+Simulation round: 165
+Baerule's total identification: [0: 425],[1: 613], [2: 962]
+BasicRebel's total identification: [0: 446],[1: 600], [2: 954]
+ 
+Simulation round: 166
+Baerule's total identification: [0: 453],[1: 615], [2: 932]
+BasicRebel's total identification: [0: 466],[1: 598], [2: 936]
+ 
+Simulation round: 167
+Baerule's total identification: [0: 432],[1: 620], [2: 948]
+BasicRebel's total identification: [0: 437],[1: 608], [2: 955]
+ 
+Simulation round: 168
+Baerule's total identification: [0: 464],[1: 627], [2: 909]
+BasicRebel's total identification: [0: 475],[1: 631], [2: 894]
+ 
+Simulation round: 169
+Baerule's total identification: [0: 486],[1: 587], [2: 927]
+BasicRebel's total identification: [0: 460],[1: 585], [2: 955]
+ 
+Simulation round: 170
+Baerule's total identification: [0: 432],[1: 623], [2: 945]
+BasicRebel's total identification: [0: 437],[1: 635], [2: 928]
+ 
+Simulation round: 171
+Baerule's total identification: [0: 469],[1: 591], [2: 940]
+BasicRebel's total identification: [0: 493],[1: 592], [2: 915]
+ 
+Simulation round: 172
+Baerule's total identification: [0: 414],[1: 657], [2: 929]
+BasicRebel's total identification: [0: 455],[1: 633], [2: 912]
+ 
+Simulation round: 173
+Baerule's total identification: [0: 447],[1: 657], [2: 896]
+BasicRebel's total identification: [0: 462],[1: 589], [2: 949]
+ 
+Simulation round: 174
+Baerule's total identification: [0: 440],[1: 640], [2: 920]
+BasicRebel's total identification: [0: 476],[1: 621], [2: 903]
+ 
+Simulation round: 175
+Baerule's total identification: [0: 441],[1: 590], [2: 969]
+BasicRebel's total identification: [0: 473],[1: 574], [2: 953]
+ 
+Simulation round: 176
+Baerule's total identification: [0: 452],[1: 639], [2: 909]
+BasicRebel's total identification: [0: 441],[1: 605], [2: 954]
+ 
+Simulation round: 177
+Baerule's total identification: [0: 418],[1: 640], [2: 942]
+BasicRebel's total identification: [0: 433],[1: 625], [2: 942]
+ 
+Simulation round: 178
+Baerule's total identification: [0: 455],[1: 601], [2: 944]
+BasicRebel's total identification: [0: 465],[1: 602], [2: 933]
+ 
+Simulation round: 179
+Baerule's total identification: [0: 413],[1: 664], [2: 923]
+BasicRebel's total identification: [0: 448],[1: 570], [2: 982]
+ 
+Simulation round: 180
+Baerule's total identification: [0: 443],[1: 643], [2: 914]
+BasicRebel's total identification: [0: 460],[1: 634], [2: 906]
+ 
+Simulation round: 181
+Baerule's total identification: [0: 440],[1: 612], [2: 948]
+BasicRebel's total identification: [0: 479],[1: 596], [2: 925]
+ 
+Simulation round: 182
+Baerule's total identification: [0: 456],[1: 610], [2: 934]
+BasicRebel's total identification: [0: 441],[1: 619], [2: 940]
+ 
+Simulation round: 183
+Baerule's total identification: [0: 436],[1: 607], [2: 957]
+BasicRebel's total identification: [0: 435],[1: 618], [2: 947]
+ 
+Simulation round: 184
+Baerule's total identification: [0: 481],[1: 608], [2: 911]
+BasicRebel's total identification: [0: 459],[1: 595], [2: 946]
+ 
+Simulation round: 185
+Baerule's total identification: [0: 446],[1: 602], [2: 952]
+BasicRebel's total identification: [0: 428],[1: 597], [2: 975]
+ 
+Simulation round: 186
+Baerule's total identification: [0: 473],[1: 592], [2: 935]
+BasicRebel's total identification: [0: 448],[1: 602], [2: 950]
+ 
+Simulation round: 187
+Baerule's total identification: [0: 401],[1: 655], [2: 944]
+BasicRebel's total identification: [0: 457],[1: 621], [2: 922]
+ 
+Simulation round: 188
+Baerule's total identification: [0: 485],[1: 624], [2: 891]
+BasicRebel's total identification: [0: 476],[1: 629], [2: 895]
+ 
+Simulation round: 189
+Baerule's total identification: [0: 466],[1: 598], [2: 936]
+BasicRebel's total identification: [0: 450],[1: 595], [2: 955]
+ 
+Simulation round: 190
+Baerule's total identification: [0: 417],[1: 633], [2: 950]
+BasicRebel's total identification: [0: 438],[1: 636], [2: 926]
+ 
+Simulation round: 191
+Baerule's total identification: [0: 440],[1: 615], [2: 945]
+BasicRebel's total identification: [0: 414],[1: 617], [2: 969]
+ 
+Simulation round: 192
+Baerule's total identification: [0: 479],[1: 578], [2: 943]
+BasicRebel's total identification: [0: 430],[1: 599], [2: 971]
+ 
+Simulation round: 193
+Baerule's total identification: [0: 400],[1: 642], [2: 958]
+BasicRebel's total identification: [0: 410],[1: 618], [2: 972]
+ 
+Simulation round: 194
+Baerule's total identification: [0: 448],[1: 594], [2: 958]
+BasicRebel's total identification: [0: 424],[1: 597], [2: 979]
+ 
+Simulation round: 195
+Baerule's total identification: [0: 440],[1: 631], [2: 929]
+BasicRebel's total identification: [0: 435],[1: 650], [2: 915]
+ 
+Simulation round: 196
+Baerule's total identification: [0: 449],[1: 594], [2: 957]
+BasicRebel's total identification: [0: 476],[1: 600], [2: 924]
+ 
+Simulation round: 197
+Baerule's total identification: [0: 450],[1: 620], [2: 930]
+BasicRebel's total identification: [0: 468],[1: 607], [2: 925]
+ 
+Simulation round: 198
+Baerule's total identification: [0: 461],[1: 615], [2: 924]
+BasicRebel's total identification: [0: 428],[1: 629], [2: 943]
+ 
+Simulation round: 199
+Baerule's total identification: [0: 463],[1: 616], [2: 921]
+BasicRebel's total identification: [0: 458],[1: 611], [2: 931]
+ 
+Simulation round: 200
+Baerule's total identification: [0: 453],[1: 605], [2: 942]
+BasicRebel's total identification: [0: 462],[1: 602], [2: 936]
+ 
